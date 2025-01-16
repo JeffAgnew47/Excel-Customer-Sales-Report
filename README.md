@@ -4,14 +4,14 @@ Welcome to the Excel Projects Repository! This repository contains four Excel-ba
 
 ## Projects Overview
 
- **1.** Create a _[CustomerSalesReport](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+ **1.** Created a _[CustomerSalesReport](https://github.com/JeffAgnew47/Excel-Customer-Sales-Report/blob/main/CustomerSalesReport.pdf)_ 
 
 This project focuses on generating a detailed sales report for customers. It includes:
 * Customer-wise sales breakdown.
 * Monthly and yearly trends.
 * Visualizations to enhance data interpretation.
 
-### 2. **Priority Matrix Project**
+ **1.** Created a _[Priority Matrix Project](https://github.com/JeffAgnew47/Excel-Customer-Sales-Report/blob/main/CustomerSalesReport.pdf)_ 
 A project designed to help prioritize tasks or projects based on urgency and importance. Features include:
 * Quadrant-based priority matrix visualization.
 * Interactive filters to categorize tasks.
