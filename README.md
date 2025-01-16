@@ -23,11 +23,10 @@ This project provides a comprehensive quarterly sales analysis. Key highlights:
 * Dynamic dashboards for insights.
 * Year-over-year performance metrics.
   
- **3.** Created a _[Scenario Planning Project](https://github.com/JeffAgnew47/Excel-Customer-Sales-Report/blob/main/Sales%20each%20Quarter.pdf)_ 
+ **4.** Created a _[Scenario Planning Project](https://github.com/JeffAgnew47/Excel-Customer-Sales-Report/blob/main/Scenario%20planning.pdf)_ 
 A financial planning tool for analyzing various scenarios. This project includes:
 * Scenario modeling for Net Sales, Cost of Goods Sold (COGS), and other metrics.
 * What-if analysis with adjustable parameters.
 * Interactive charts and summaries for quick decision-making.
 
-## How to Use
-1. Clone the repository using the following command:
+
