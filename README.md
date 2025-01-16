@@ -11,13 +11,13 @@ This project focuses on generating a detailed sales report for customers. It inc
 * Monthly and yearly trends.
 * Visualizations to enhance data interpretation.
 
- **1.** Created a _[Priority Matrix Project](https://github.com/JeffAgnew47/Excel-Customer-Sales-Report/blob/main/CustomerSalesReport.pdf)_ 
+ **2.** Created a _[Priority Matrix Project](https://github.com/JeffAgnew47/Excel-Customer-Sales-Report/blob/main/Priority%20Matrix%20Project.pdf)_ 
 A project designed to help prioritize tasks or projects based on urgency and importance. Features include:
 * Quadrant-based priority matrix visualization.
 * Interactive filters to categorize tasks.
 * Automatic updates for priority levels based on input changes.
 
-### 3. **Sales Each Quarter**
+ **3.** Created a _[Priority Matrix Project](https://github.com/JeffAgnew47/Excel-Customer-Sales-Report/blob/main/Priority%20Matrix%20Project.pdf)_ 
 This project provides a comprehensive quarterly sales analysis. Key highlights:
 * Quarterly sales trends and comparisons.
 * Dynamic dashboards for insights.
